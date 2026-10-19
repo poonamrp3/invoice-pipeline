@@ -1,4 +1,4 @@
-# Galatiq Case: Invoice Processing Automation System
+# Invoice Processing Automation System
 
 An intelligent, multi-agent automated system engineered to eliminate manual invoice parsing, detect financial anomalies/fraud, and streamline VP-level risk approvals using local tool validation and state reflection loops.
 
